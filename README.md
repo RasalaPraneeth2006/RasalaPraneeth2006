@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/main/dark.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/main/dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/main/light.svg" />
     <img alt="Rasala Praneeth" src="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/main/light.svg" />
   </picture>
