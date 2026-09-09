@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rasala Praneeth</h1>
-<h3 align="center">Software Developer & Tech Enthusiast</h3>
+<h1 align="center">Hi there, I'm Rasala Praneeth 👋</h1>
+<h3 align="center">A passionate Software Developer & Tech Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RasalaPraneeth2006&theme=radical&color=0891B2" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RasalaPraneeth2006&theme=radical&color=00f2fe" alt="Profile Views" />
 </p>
 
 ---
@@ -23,13 +23,13 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-ten-rho-29.vercel.app/api?username=RasalaPraneeth2006&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-rho-29.vercel.app/api?username=RasalaPraneeth2006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-ten-rho-29.vercel.app/api/top-langs/?username=RasalaPraneeth2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/output/github-snake-dark.svg">
@@ -37,11 +37,3 @@
     <img alt="github snake animation" src="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/output/github-snake.svg">
   </picture>
 </div>
-
----
-
-### 🚀 Featured Projects
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **LogExplain AI** | AI-based log preprocessing, analysis, and routing system. | FastAPI, Python, LLMs | [View Code](#) |
-| **System Monitoring** | Real-time system monitoring dashboard metrics. | Python, C++ | [View Code](#) |
