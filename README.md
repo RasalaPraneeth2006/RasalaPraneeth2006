@@ -7,19 +7,41 @@
 
 ---
 
-```text
-┌────────────────────────────────────────────────────────┐
-│ SYSTEM.INFO                                      --LIVE│
-├────────────────────────────────────────────────────────┤
-│ Subject               Rasala Praneeth                  │
-│ Role                  Full-Stack Developer & Student   │
-│ Origin                India                            │
-│ Status                Building ⟡ Learning ⟡ Shipping   │
-│ Core.Lang             Java, C++, Python, JavaScript    │
-│ Core.Backend          FastAPI, Node.js, Express        │
-│ Core.AI               LLM Integrations, LogExplain AI  │
-│ Core.Infra            Vercel, Docker, Git, Linux       │
-├────────────────────────────────────────────────────────┤
-│ - Contact                                              │
-│ Grid.GitHub           [github.com/RasalaPraneeth2006](https://github.com/RasalaPraneeth2006)    │
-└────────────────────────────────────────────────────────┘
+### 👨‍💻 About Me
+* 🔭 **Currently working on:** LogExplain AI (AI-based log preprocessing, analysis, and routing system).
+* 🌱 **Learning & Exploring:** Advanced Data Structures, Cloud Architecture, and System Design.
+* ⚡ **Fun Fact:** Driven by solving complex algorithmic challenges and crafting clean code.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Java, C++, Python, JavaScript
+* **Backend & AI:** FastAPI, Node.js, Express, LLM Integrations
+* **Tools & Systems:** Git, Docker, Vercel, Linux
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats-ten-rho-29.vercel.app/api?username=RasalaPraneeth2006&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-rho-29.vercel.app/api/top-langs/?username=RasalaPraneeth2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/output/github-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/RasalaPraneeth2006/RasalaPraneeth2006/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🚀 Featured Projects
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **LogExplain AI** | AI-based log preprocessing, analysis, and routing system. | FastAPI, Python, LLMs | [View Code](#) |
+| **System Monitoring** | Real-time system monitoring dashboard metrics. | Python, C++ | [View Code](#) |
