@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="RasalaPraneeth2006's GitHub profile" src="dark_mode.svg" />
+</picture>
 <h1 align="center">Hi there, I'm Rasala Praneeth 👋</h1>
 <h3 align="center">A passionate Software Developer & Tech Enthusiast from India</h3>
 
